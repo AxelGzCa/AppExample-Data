@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppExample-Data</string>
+    <string name="button">Button</string>
+    <string name="dance_button">Dance</string>
+    <string name="yourname1">Nombre</string>
+    <string name="yourname2">Nombre</string>
+    <string name="neeko_dance">Neeko Dance</string>
+    <string name="jhin_dance">Jhin Dance</string>
+</resources>
